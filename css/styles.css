@@ -1,3 +1,17 @@
 .old, .young {
   display: none;
 }
+
+.link {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.old {
+  background-color: green;
+}
+
+.young {
+  background-color: red;
+}
